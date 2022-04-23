@@ -33,7 +33,11 @@
     color: var(--color-gray);
     
 }
+.app__navbar-login{
+    overflow-y: hidden;
+}
 .app__navbar-login a{
+    
     margin: 0 1rem;
     text-decoration: none;
     transition: 0.5s ease;

@@ -1,6 +1,7 @@
 .app__video {
     height: 100vh;
     position: relative;
+    overflow-y: hidden;
 }
 
 .app__video video {
