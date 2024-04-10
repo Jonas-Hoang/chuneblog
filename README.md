@@ -1,3 +1,9 @@
+# Landing page project
+
+
+![alt text]([http://url/to/img.png](https://cdn.piepme.com/14333/images/piep-FOP1mYKP17127188188551712718818855.png))
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
