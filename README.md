@@ -1,7 +1,8 @@
 # Landing page project
 
 
-![alt text]([http://url/to/img.png](https://cdn.piepme.com/14333/images/piep-FOP1mYKP17127188188551712718818855.png))
+![image](https://github.com/Jonas-Hoang/chuneblog/assets/66858257/1cf4649c-150a-498a-a08b-023ee7baf6a0)
+
 
 
 # Getting Started with Create React App
